@@ -6,8 +6,11 @@
 <br>
 
 <h2>🚀 사용기술</h2>
-![image](https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/573024a9-6082-4a15-92ce-a580a82993ed)
-
+<ul>
+  <li> JAVA , SPRING</li>
+  <li>ORACLE</li>
+  <li>HTML5, CSS3, jQuery, JavaScript</li>
+</ul>
 <br>
 <br>
 <h2>📆 개발 진행 일정</h2>
