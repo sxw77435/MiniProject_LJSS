@@ -17,6 +17,6 @@
 
 <h2>🖼 Preview </h2>
 <h3>------main-----</h3>
-<video src="https://github.com/sxw77435/MiniProject_LJSS/blob/master/ljss/main.mp4">
+<video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/a011f512-a81a-43f6-a91c-a27ebb47e851">
 
 <h3>------회원가입/로그인-----</h3>
