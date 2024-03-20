@@ -13,4 +13,4 @@
 <br>
 
 <h2>📆 프로젝트 개발 일정 </h2>
-<img width="80%" src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/e7b8c2c4-6f8a-4abe-93ae-355d7a0aecab"
+<img width="80%" src="https://github.com/sxw77435/MiniProject_LJSS/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-03-20%20124341.png"
