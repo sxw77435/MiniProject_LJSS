@@ -18,8 +18,8 @@
 <div class="video">
 <h2>🖼 Preview </h2>
 <h3>------ MAIN-------</h3>
-<!-- <video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/d543da6a-f0e7-4346-a1ea-2690796eb467">
- -->
+<video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/d543da6a-f0e7-4346-a1ea-2690796eb467">
+
 <h3>------ 회원가입/로그인-------</h3>
 <video src="./ljss/login.mp4">
 
