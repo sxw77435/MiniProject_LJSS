@@ -13,4 +13,4 @@
 <br>
 
 <h2>📆 프로젝트 기간 </h2>
-![image](https://github.com/sxw77435/MiniProject_LJSS/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-03-20%20124341.png)
+
