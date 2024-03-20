@@ -13,4 +13,4 @@
 <br>
 
 <h2>📆 프로젝트 개발 일정 </h2>
-<img src="https://github.com/sxw77435/MiniProject_LJSS/blob/master/%EA%B0%9C%EB%B0%9C%EC%A7%84%ED%96%89%EC%83%81%ED%99%A9.png"
+![개발진행상황](https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/14cac325-126c-46e6-a2df-c5c4df70134c)
