@@ -13,8 +13,4 @@
 <br>
 
 <h2>📆 프로젝트 개발 일정 </h2>
-// 마트다운 형식
-![캡처](/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG)
- 
-// 태그 형식
-<img src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/a1deaf8c-f974-45f4-a9b9-d85d6e41525c.PNG"  width="700" height="370">
+
