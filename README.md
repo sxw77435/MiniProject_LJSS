@@ -24,6 +24,6 @@
 <video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/2d55dfd6-7f06-405a-a105-390aee116d7c">
 
 <h3>------ 회원가입/로그인-------</h3>
-<video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/2d55dfd6-7f06-405a-a105-390aee116d7c">
+<video src="./ljss/login.mp4">
 
 </div>
