@@ -16,7 +16,7 @@
 <img src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/14cac325-126c-46e6-a2df-c5c4df70134c">
 
 <h2>🖼 Preview </h2>
-<h3>------main-----</h3>
+<h3>------main-------</h3>
 <video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/a011f512-a81a-43f6-a91c-a27ebb47e851">
 
-<h3>------회원가입/로그인-----</h3>
+<h3>------회원가입/로그인-----=</h3>
