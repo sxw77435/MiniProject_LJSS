@@ -24,3 +24,8 @@ https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/b9717040-c04b-45c4
 
 ### 회원가입/로그인
 https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/312b937b-fa20-4fb1-9f1d-af6010c47cc8
+
+
+### 상품 
+https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/adac5fcf-a98e-4129-aa1e-cf7ed1179d2a
+
