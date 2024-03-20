@@ -12,5 +12,4 @@
 </ul>
 <br>
 
-<h2>📆 개발 진행 일정</h2>
-![image](https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/dee06698-1b9e-41c1-93b3-0ddcc0606571)
+<h2>🖼 Preview</h2>
