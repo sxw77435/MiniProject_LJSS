@@ -20,3 +20,4 @@
 <video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/a011f512-a81a-43f6-a91c-a27ebb47e851">
 
 <h3>------회원가입/로그인-----=</h3>
+<video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/452d7b7c-936d-420b-b394-746fc12cd0b2">
