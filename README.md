@@ -18,4 +18,4 @@
 
 <h2>🖼 Preview </h2>
 <h3>------ 영상 미리보기-------</h3>
-<video src=".">
+<video src="https://github.com/sxw77435/MiniProject_LJSS/blob/master/ljss/LJSS.mp4">
