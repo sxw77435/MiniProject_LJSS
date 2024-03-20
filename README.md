@@ -6,7 +6,9 @@
 <br>
 
 <h2>🚀 사용기술</h2>
-<ul>
-<li>Java ,jsp</li>
-<li>HTML5, CSS3 , jQery , JavaScript</li>
-</ul>
+![image](https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/573024a9-6082-4a15-92ce-a580a82993ed)
+
+<br>
+<br>
+<h2>📆 개발 진행 일정</h2>
+![image](https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/dee06698-1b9e-41c1-93b3-0ddcc0606571)
