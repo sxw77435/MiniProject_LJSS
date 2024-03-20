@@ -17,7 +17,10 @@
 
 
 <h2>🖼 Preview </h2>
-<h3>------ 영상 미리보기-------</h3>
-<video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/b9717040-c04b-45c4-8e95-0b003fd721ad">
 
-<video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/312b937b-fa20-4fb1-9f1d-af6010c47cc8">
+### MAIN
+https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/b9717040-c04b-45c4-8e95-0b003fd721ad
+
+
+### 회원가입/로그인
+https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/312b937b-fa20-4fb1-9f1d-af6010c47cc8
