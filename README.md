@@ -20,5 +20,7 @@
 <h3>------main-------</h3>
 <video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/d543da6a-f0e7-4346-a1ea-2690796eb467">
 
-<h3>------회원가입/로그인-----=</h3>
+<h3>------회원가입/로그인-----</h3>
+<video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/d2fd68a7-0a2c-47b5-9d8a-d1dabd759ff5">
+
 </div>
