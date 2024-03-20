@@ -18,7 +18,7 @@
 <div class="video">
 <h2>🖼 Preview </h2>
 <h3>------ MAIN-------</h3>
-<video height="60" src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/17594cfb-f02a-40e2-8ac6-bf751a31c956">
+<video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/17594cfb-f02a-40e2-8ac6-bf751a31c956">
 
 <h3>------ 회원가입/로그인-------</h3>
 <video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/2d55dfd6-7f06-405a-a105-390aee116d7c">
