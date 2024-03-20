@@ -18,3 +18,6 @@
 <h2>🖼 Preview </h2>
 <h3>------main-----</h3>
 <video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/99734728-29c2-43bf-ad65-2c8842d3fd36">
+
+<h3>------회원가입/로그인-----</h3>
+<video src="https://github.com/sxw77435/MiniProject_LJSS/assets/149069669/53c7f388-7c1f-4b80-9681-6f8d3bb39b9f">
